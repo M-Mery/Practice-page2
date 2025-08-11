@@ -15,6 +15,12 @@ A responsive photo gallery layout created with HTML and CSS.
 
 A simple CSS art project that recreates a Rothko-style painting using div elements and colors.
 
+• Nutrition-label:
+
+A styled HTML & CSS project that recreates a nutrition facts label, practicing typography and spacing.
+
+
+
 🛠️ Technologies Used
 
 • HTML5
